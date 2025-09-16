@@ -15,7 +15,7 @@ namespace TarjetaSubeTest
         }
 
         [Test]
-        public void Test1()
+        public void CargaTest()
         {
             t.Cargar(100);
             t.Pagar();
